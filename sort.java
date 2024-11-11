@@ -13,7 +13,7 @@ public class sort {
         }
         for(int k=0; k<n-1; k++)
         {
-            for(int j=0; j<n-k; j++)
+            for(int j=0; j<n-k-1; j++)
             {
                 if(arr[j]>arr[j+1])
                 {
