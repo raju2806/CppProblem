@@ -19,5 +19,6 @@ public class removeduplicat{
     }
     temp[k]=arr[n-1];
     for(int j=0; j<=k; j++) {System.out.println(temp[j]);}
+    sc.close();
     }
 }

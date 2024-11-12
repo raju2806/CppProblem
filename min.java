@@ -16,5 +16,6 @@ public class min {
             if(arr[i]<mini) { mini=arr[i];}
         }
         System.out.println(mini+" ");
+        sc.close();
     }   
 }

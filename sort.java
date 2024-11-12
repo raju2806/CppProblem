@@ -27,5 +27,6 @@ public class sort {
         {
             System.out.println(x +" ");
         }
+        sc.close();
     }
 }
