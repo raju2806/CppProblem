@@ -37,6 +37,7 @@ public class findDuplitwoarray {
         {
             System.out.println(arr2[i]+" ");
         }
+        sc.close();
     }
 } 
 
