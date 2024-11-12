@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class findDuplitwoarray {
+public class tempCodeRunnerFile {
         public static void main(String[] args)
     {
         Scanner sc= new Scanner(System.in);
@@ -34,5 +34,6 @@ public class findDuplitwoarray {
         {
             System.out.println(arr2[i]+" ");
         }
+        sc.close();
     }
 } 
